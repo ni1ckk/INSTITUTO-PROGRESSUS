@@ -2,46 +2,41 @@ export const testimonials = [
   {
     id: 0,
     imageSrc: "/assets/img/testimonials/1.png",
-    name: "Courtney Henry",
-    position: "Web Designer",
-    comment: "Great Work",
-    description: `I think Educrat is the best theme I ever seen this year.
-        Amazing design, easy to customize and a design quality
-        superlative account on its cloud platform for the
-        optimized performance`,
+    name: "Thierry Henry",
+    position: "Organize suas ideias e escreva com confiança!",
+    comment: "O curso é incrível!",
+    description: `Sempre tive dificuldade para escrever textos claros. Com esse curso, 
+    finalmente entendi como organizar minhas ideias e escrever de forma objetiva. 
+    Já estou colhendo resultados na faculdade!`,
   },
   {
     id: 1,
     imageSrc: "/assets/img/testimonials/2.png",
     name: "Ronald Richards",
-    position: "President of Sales",
-    comment: "Great Work",
-    description: `I think Educrat is the best theme I ever seen this year.
-        Amazing design, easy to customize and a design quality
-        superlative account on its cloud platform for the
-        optimized performance`,
+    position: "Matemática Financeira",
+    comment: "Aprenda a dominar seu dinheiro com lógica e clareza!",
+    description: `O curso me ajudou a entender juros, 
+    parcelas e investimentos de um jeito muito prático. 
+    Agora consigo planejar melhor meu dinheiro e até ajudo amigos com planilhas!`,
   },
   {
     id: 2,
     imageSrc: "/assets/img/testimonials/3.png",
-    name: "Annette Black",
-    position: "Nursing Assistant",
-    comment: "Great Work",
-    description: `I think Educrat is the best theme I ever seen this year.
-        Amazing design, easy to customize and a design quality
-        superlative account on its cloud platform for the
-        optimized performance`,
+    name: "David Smith",
+    position: " Física no Cotidiano",
+    comment: "Descubra como a física está em tudo ao seu redor!",
+    description: `Eu achava física chata até ver ela aplicada no nosso dia a dia. 
+    Esse curso mudou completamente minha visão e me fez querer aprender mais!`,
   },
   {
     id: 3,
     imageSrc: "/assets/img/testimonials/4.png",
-    name: "Courtney Henry",
-    position: "Web Designer",
-    comment: "Great Work",
-    description: `I think Educrat is the best theme I ever seen this year.
-        Amazing design, easy to customize and a design quality
-        superlative account on its cloud platform for the
-        optimized performance`,
+    name: "Robert Smith",
+    position: "Geografia Atual",
+    comment: "Entenda o mundo com uma nova perspectiva!",
+    description: `O curso me ajudou a entender os conflitos internacionais 
+    com uma linguagem simples e atual. 
+    Excelente para quem quer saber o que está acontecendo no mundo!`,
   },
 ];
 
