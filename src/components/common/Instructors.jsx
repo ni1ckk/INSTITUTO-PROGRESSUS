@@ -107,7 +107,7 @@ export default function Instructors({ backgroundColor }) {
           <div className="col-auto">
             <p className="lh-1">
               Quer ajudar as pessoas à aprender e alcançar novas conquistas? 
-              <Link className="text-purple-1 underline" to="/instructor-become">
+              <Link className="text-blue-7 underline" to="/instructor-become">
               Torne-se um professor
               </Link>
             </p>

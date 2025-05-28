@@ -14,7 +14,7 @@ export default function BlogDetails({ id }) {
             <div className="row justify-center text-center">
               <div className="col-auto">
                 <div>
-                  <div className="text-14 text-purple-1 uppercase fw-500 mb-8">
+                  <div className="text-14 text-blue-7 uppercase fw-500 mb-8">
                     {data.category.toUpperCase()}
                   </div>
 
@@ -353,13 +353,13 @@ export default function BlogDetails({ id }) {
                             </div>
 
                             <div className="comments__helpful mt-20">
-                              <span className="text-13 text-purple-1">
+                              <span className="text-13 text-blue-7">
                                 Was this review helpful?
                               </span>
-                              <button className="button text-13 -sm -purple-1 text-white">
+                              <button className="button text-13 -sm -blue-7 text-white">
                                 Yes
                               </button>
-                              <button className="button text-13 -sm -light-7 text-purple-1">
+                              <button className="button text-13 -sm -light-7 text-blue-7">
                                 No
                               </button>
                             </div>
@@ -405,13 +405,13 @@ export default function BlogDetails({ id }) {
                             </div>
 
                             <div className="comments__helpful mt-20">
-                              <span className="text-13 text-purple-1">
+                              <span className="text-13 text-blue-7">
                                 Was this review helpful?
                               </span>
-                              <button className="button text-13 -sm -purple-1 text-white">
+                              <button className="button text-13 -sm -blue-7 text-white">
                                 Yes
                               </button>
-                              <button className="button text-13 -sm -light-7 text-purple-1">
+                              <button className="button text-13 -sm -light-7 text-blue-7">
                                 No
                               </button>
                             </div>
@@ -469,7 +469,7 @@ export default function BlogDetails({ id }) {
                         type="submit"
                         name="submit"
                         id="submit"
-                        className="button -md -purple-1 text-white"
+                        className="button -md -blue-7 text-white"
                       >
                         Submit Review
                       </button>

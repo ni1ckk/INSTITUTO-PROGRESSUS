@@ -89,7 +89,6 @@
 :root {
   --color-white: #FFFFFF;
   --color-black: #000000;
-  --color-gray: #a6a6a6;
   --color-dark-1: #000000;
   --color-dark-2: #1A064F;
   --color-dark-3: #6A7A99;
@@ -99,7 +98,7 @@
   --color-dark-7: #EAE9EF;
   --color-dark-8: #202124;
   --color-light-1: #4F547B;
-  --color-light-2: #E4E7EA;
+  --color-light-2: #a6a6a6;
   --color-light-3: #EEF2F6;
   --color-light-4: #F7F8FB;
   --color-light-5: #EDEDED;
@@ -139,7 +138,7 @@
   --color-blue-4: #508EF0;
   --color-blue-5: #445B95;
   --color-blue-6: #E5EEFD;
-  --color-blue-7: #E3E6EF;
+  --color-blue-7: #0D0097;
   --color-yellow-1: #E59819;
   --color-yellow-2: #FDF8EB;
   --color-yellow-3: #ECB53E;
@@ -3504,7 +3503,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about-content__title span {
-  color: #6440FB;
+  color: #0D0097;
 }
 
 .about-content__text {
@@ -3551,7 +3550,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 25px;
   height: 25px;
   border-radius: 100%;
-  background-color: #6440FB;
+  background-color: #0D0097;
 }
 
 .about-content .about-content-list__icon .icon {
@@ -3590,7 +3589,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .app-content__title span {
-  color: #6440FB;
+  color: #0D0097;
 }
 
 .app-content__text {
@@ -3623,7 +3622,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 16px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #6440FB;
+  color: #0D0097;
 }
 
 .blogCard.-type-1 .blogCard__title {
@@ -3664,7 +3663,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 15px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #6440FB;
+  color: #0D0097;
 }
 
 .blogCard.-type-2 .blogCard__title {
@@ -6300,7 +6299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .counter__row {
-  padding-top: 180px;
+  padding-top: 80px;
 }
 
 @media (max-width: 767px) {
@@ -6313,7 +6312,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 35px;
   font-weight: 700;
   line-height: 40px;
-  color: #00FF84;
+  color: #a6a6a6;
 }
 
 .counter__title {

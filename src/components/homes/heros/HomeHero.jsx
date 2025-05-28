@@ -89,7 +89,7 @@ const HomeHero = () => {
               >
                 <h1 className="masthead__title">
                   {title}{" "}
-                  <span className="text-blue-5 underline">
+                  <span className="text-blue-3 underline">
                     {text_underline}
                   </span>
                 </h1>
@@ -118,7 +118,7 @@ const HomeHero = () => {
                     <Link
                       data-barba
                       to="/courses-list-4"
-                      className="button -md -outline-blue-5 text-blue-5"
+                      className="button -md -outline-blue-3 text-blue-3"
                     >
                       Cursos
                     </Link>
