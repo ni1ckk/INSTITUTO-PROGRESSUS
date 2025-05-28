@@ -14,10 +14,10 @@ export default function News() {
               data-aos="fade-left"
               data-aos-duration={600}
             >
-              <h2 className="sectionTitle__title ">Resources & News</h2>
+              <h2 className="sectionTitle__title ">Artigos e Notícias</h2>
 
               <p className="sectionTitle__text ">
-                Lorem ipsum dolor sit amet, consectetur.
+                Leia artigos escritos por nossos professores e notícias vinculadas ao mundo educacional.
               </p>
             </div>
           </div>
@@ -29,7 +29,7 @@ export default function News() {
           >
             <Link
               to="/blog-list-3"
-              className="button -icon -purple-3 text-purple-1"
+              className="button -icon -blue-7 text-light-2"
             >
               Notícias
               <i className="icon-arrow-top-right text-13 ml-10"></i>

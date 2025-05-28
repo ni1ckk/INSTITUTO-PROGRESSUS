@@ -2,7 +2,7 @@ import React from "react";
 import { steps } from "../../data/steps";
 export default function WhyCourse() {
   return (
-    <section className="layout-pt-lg layout-pb-lg bg-dark-2">
+    <section className="layout-pt-lg layout-pb-lg bg-black">
       <div className="container">
         <div className="row justify-center text-center">
           <div className="col-auto">

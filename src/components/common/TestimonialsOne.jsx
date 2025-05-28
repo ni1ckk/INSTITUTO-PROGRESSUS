@@ -13,17 +13,17 @@ export default function TestimonialsOne() {
     setShowSlider(true);
   }, []);
   return (
-    <section className="layout-pt-lg mt-80 layout-pb-lg bg-purple-1">
+    <section className="layout-pt-lg mt-80 layout-pb-lg bg-blue-7">
       <div className="container ">
         <div className="row justify-center text-center">
           <div className="col-auto">
             <div className="sectionTitle ">
-              <h2 className="sectionTitle__title text-green-1">
-                What People Say
+              <h2 className="sectionTitle__title text-light-2">
+                O que dizem
               </h2>
 
               <p className="sectionTitle__text text-white">
-                Lorem ipsum dolor sit amet, consectetur.
+                Testemunhos e feedbacks dos nossos alunos
               </p>
             </div>
           </div>
